@@ -52,4 +52,4 @@ Ensure your dataset is stored in CSV, Excel, or Power BI-compatible format with 
 
 User-provided dataset (no external source required).
 
-Show what the dashboard looks like.---  ![Dashboard Preview](
+Show what the dashboard looks like.---  ![Dashboard Preview](https://github.com/shubhamchavan9957-lang/Netflix_Shubham/blob/main/Screenshot%202025-12-09%20125233.png)
